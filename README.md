@@ -3,6 +3,9 @@ Source code and research related documents for [Sentence Semantic Similarity Usi
 
 We are currently working on reformatting this repo into a library. Feel free to create a PR for current issues or raise a new one.
 
+We're following [Google Style guide](https://google.github.io/styleguide/pyguide.html) for python developement with mandatory type annotations to get some well documented and nicely written code. Further standards and practices are to be decided and open for suggestions. 
+
+
 Cite our work if you are using any part it:
 ```
 @INPROCEEDINGS{8944671,
