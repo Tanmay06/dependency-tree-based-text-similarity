@@ -1,5 +1,5 @@
 # dependency-tree-based-text-similarity
-Source code and research related documents for [Sentence Semantic Similarity Using Dependency Parsing].(https://ieeexplore.ieee.org/abstract/document/8944671)
+Source code and research related documents for [Sentence Semantic Similarity Using Dependency Parsing](https://ieeexplore.ieee.org/abstract/document/8944671).
 
 We are currently working on reformatting this repo into a library. Feel free to create a PR for current issues or raise a new one.
 
